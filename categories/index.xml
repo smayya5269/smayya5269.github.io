@@ -12,20 +12,11 @@
     
     
     <item>
-      <title>subcategory</title>
-      <link>/categories/subcategory/</link>
+      <title>The beginning!</title>
+      <link>/categories/the-beginning/</link>
       <pubDate>Sun, 02 Aug 2020 21:07:43 -0400</pubDate>
       
-      <guid>/categories/subcategory/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The opening!</title>
-      <link>/categories/the-opening/</link>
-      <pubDate>Sun, 02 Aug 2020 21:07:43 -0400</pubDate>
-      
-      <guid>/categories/the-opening/</guid>
+      <guid>/categories/the-beginning/</guid>
       <description></description>
     </item>
     
