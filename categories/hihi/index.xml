@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HIHI on Sneha Mayya</title>
+    <link>/categories/hihi/</link>
+    <description>Recent content in HIHI on Sneha Mayya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2020 10:46:14 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/hihi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>startingstory</title>
+      <link>/2020/08/startingstory/</link>
+      <pubDate>Mon, 03 Aug 2020 10:46:14 -0400</pubDate>
+      
+      <guid>/2020/08/startingstory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
