@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal-ish on Sneha Mayya</title>
+    <link>/categories/personal-ish/</link>
+    <description>Recent content in Personal-ish on Sneha Mayya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 02 Aug 2020 21:07:43 -0400</lastBuildDate>
+    
+	<atom:link href="/categories/personal-ish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello</title>
+      <link>/2020/08/hello/</link>
+      <pubDate>Sun, 02 Aug 2020 21:07:43 -0400</pubDate>
+      
+      <guid>/2020/08/hello/</guid>
+      <description>Hi my name is Sneha! This is my brand new blog where I plan on posting&amp;hellip; stuff? I haven&amp;rsquo;t exactly planned everything out but&amp;hellip; hey! The future is later, not now! Anywho, I might write some stories and stuff so yea! Keep on the lookout! I will post everyday&amp;hellip; or least I&amp;rsquo;m planning to! Well, this is all for the opening of my brand new blog site! Now buckle up and enjoy!</description>
+    </item>
+    
+  </channel>
+</rss>
