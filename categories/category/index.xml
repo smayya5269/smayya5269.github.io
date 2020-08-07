@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>subcategory on Sneha Mayya</title>
-    <link>/categories/subcategory/</link>
-    <description>Recent content in subcategory on Sneha Mayya</description>
+    <title>category on Sneha Mayya</title>
+    <link>/categories/category/</link>
+    <description>Recent content in category on Sneha Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 06 Aug 2020 13:06:35 -0400</lastBuildDate>
     
-	<atom:link href="/categories/subcategory/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/category/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
