@@ -6,44 +6,26 @@
     <description>Recent content in Categories on Sneha Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Aug 2020 13:06:35 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2020 13:56:06 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>category</title>
-      <link>/categories/category/</link>
-      <pubDate>Thu, 06 Aug 2020 13:06:35 -0400</pubDate>
+      <title>Personal-ish</title>
+      <link>/categories/personal-ish/</link>
+      <pubDate>Wed, 26 Aug 2020 13:56:06 -0400</pubDate>
       
-      <guid>/categories/category/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>subcategory</title>
-      <link>/categories/subcategory/</link>
-      <pubDate>Thu, 06 Aug 2020 13:06:35 -0400</pubDate>
-      
-      <guid>/categories/subcategory/</guid>
+      <guid>/categories/personal-ish/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ghosts</title>
       <link>/categories/ghosts/</link>
-      <pubDate>Tue, 04 Aug 2020 12:31:51 -0400</pubDate>
+      <pubDate>Thu, 06 Aug 2020 13:06:35 -0400</pubDate>
       
       <guid>/categories/ghosts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Personal-ish</title>
-      <link>/categories/personal-ish/</link>
-      <pubDate>Tue, 04 Aug 2020 10:25:49 -0400</pubDate>
-      
-      <guid>/categories/personal-ish/</guid>
       <description></description>
     </item>
     
