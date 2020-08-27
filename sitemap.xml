@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>/categories/category/</loc>
+    <loc>/2020/08/cliffhanger-time/</loc>
     <lastmod>2020-08-27T12:15:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/2020/08/cliffhanger/</loc>
+    <loc>/categories/cliffhanger/</loc>
     <lastmod>2020-08-27T12:15:16-04:00</lastmod>
   </url>
   
@@ -23,12 +23,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/categories/random/</loc>
     <lastmod>2020-08-27T12:15:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/subcategory/</loc>
+    <loc>/</loc>
     <lastmod>2020-08-27T12:15:16-04:00</lastmod>
   </url>
   
@@ -65,6 +65,10 @@
   <url>
     <loc>/2020/08/hello/</loc>
     <lastmod>2020-08-02T21:07:43-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/8/27/20/</loc>
   </url>
   
   <url>
