@@ -4,7 +4,32 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2020-08-26T13:56:06-04:00</lastmod>
+    <lastmod>2020-08-27T12:15:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/category/</loc>
+    <lastmod>2020-08-27T12:15:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/2020/08/cliffhanger/</loc>
+    <lastmod>2020-08-27T12:15:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-08-27T12:15:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-08-27T12:15:16-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/subcategory/</loc>
+    <lastmod>2020-08-27T12:15:16-04:00</lastmod>
   </url>
   
   <url>
@@ -14,16 +39,6 @@
   
   <url>
     <loc>/categories/personal-ish/</loc>
-    <lastmod>2020-08-26T13:56:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-08-26T13:56:06-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/</loc>
     <lastmod>2020-08-26T13:56:06-04:00</lastmod>
   </url>
   
