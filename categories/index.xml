@@ -6,26 +6,26 @@
     <description>Recent content in Categories on Sneha Mayya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Aug 2020 12:15:16 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2020 12:22:32 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cliffhanger!</title>
-      <link>/categories/cliffhanger/</link>
-      <pubDate>Thu, 27 Aug 2020 12:15:16 -0400</pubDate>
+      <title>category</title>
+      <link>/categories/category/</link>
+      <pubDate>Thu, 27 Aug 2020 12:22:32 -0400</pubDate>
       
-      <guid>/categories/cliffhanger/</guid>
+      <guid>/categories/category/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>RANDOM</title>
-      <link>/categories/random/</link>
-      <pubDate>Thu, 27 Aug 2020 12:15:16 -0400</pubDate>
+      <title>subcategory</title>
+      <link>/categories/subcategory/</link>
+      <pubDate>Thu, 27 Aug 2020 12:22:32 -0400</pubDate>
       
-      <guid>/categories/random/</guid>
+      <guid>/categories/subcategory/</guid>
       <description></description>
     </item>
     
@@ -44,15 +44,6 @@
       <pubDate>Tue, 04 Aug 2020 12:31:51 -0400</pubDate>
       
       <guid>/categories/ghosts/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>8/27/20</title>
-      <link>/categories/8/27/20/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/8/27/20/</guid>
       <description></description>
     </item>
     
